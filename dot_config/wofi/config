@@ -1,0 +1,9 @@
+width=20%
+height=21%
+columns=1
+prompt=Benis
+content_halign=start
+halign=center
+valign=center
+image_size=32
+dynamic_lines=true
